@@ -3,4 +3,6 @@ Um projeto simples e interativo de cards que se expandem ao serem clicados, cria
 ## 📝 Tecnologias Utilizadas  
 - **HTML5**: Estruturação dos cards.  
 - **CSS3**: Estilização e animações.  
-- **JavaScript**: Adição da lógica interativa. 
+- **JavaScript**: Adição da lógica interativa.
+---
+Você pode conferir o site neste link: [Clique aqui 🩷](https://anadeon.github.io/cards-expandidos/)
