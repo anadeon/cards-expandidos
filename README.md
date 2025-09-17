@@ -6,3 +6,4 @@ Um projeto simples e interativo de cards que se expandem ao serem clicados, cria
 - **JavaScript**: Adição da lógica interativa.
 ---
 Você pode conferir o site neste link: [Clique aqui 🩷](https://anadeon.github.io/cards-expandidos/)
+✨ Desenvolvido por Ana Gabriela Deon
